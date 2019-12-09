@@ -2,7 +2,6 @@
   "name": "worldtime-node",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "build": "tsc",
     "prebuild": "rm -rf ./dist/*"
